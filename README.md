@@ -1,4 +1,4 @@
-# 1p_llocweb_2dg
+# 1p_llocweb_2DG
 Primera pràctica
 
 # Continguts
